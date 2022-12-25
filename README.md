@@ -1,2 +1,2 @@
-# Simple Weather App
-This is just a practice of working with REST API.
+# A simple weather app
+This is just a practice of working with Foreca Weather API.
